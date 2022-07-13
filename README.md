@@ -1,16 +1,45 @@
-# spending_detector
 
-A new Flutter project.
+# Time World Flutter application
 
-## Getting Started
+....description....
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Packages
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```http://worldtimeapi.org/api/timezone/:area/:location```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### Demo
+
+```http://worldtimeapi.org/api/timezone/Asia/Kolkata```
+
+
+## Frontend
+
+- Flutter : 3.0.1
+- Dart SDK version: 2.17.1
+
+
+## Acknowledgements
+Flutter packages used : 
+ - [intl: ^0.17.0](https://pub.dev/packages/intl)
+ - [flutter_spinkit: ^5.1.0](https://pub.dev/packages/flutter_spinkit)
+ - [http: ^0.13.4](https://pub.dev/packages/http)
+
+
+## Screenshots
+
+### First Page
+![App Screenshot](https://raw.githubusercontent.com/Akshat-kush007/Spending-Detector/main/assets/images/s1.png)
+
+
+### Add Spending page
+![App Screenshot](https://raw.githubusercontent.com/Akshat-kush007/Spending-Detector/main/assets/images/s2.png)
+
+### Date Picker
+![App Screenshot](https://raw.githubusercontent.com/Akshat-kush007/Spending-Detector/main/assets/images/s3.png)
+
+
+### First Page with data
+![App Screenshot](https://raw.githubusercontent.com/Akshat-kush007/Spending-Detector/main/assets/images/s4.png)
+

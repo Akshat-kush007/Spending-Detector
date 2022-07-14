@@ -1,29 +1,19 @@
 
-# Time World Flutter application
-
-....description....
-
-
-## Packages
-
-```http://worldtimeapi.org/api/timezone/:area/:location```
-
-
-### Demo
-
-```http://worldtimeapi.org/api/timezone/Asia/Kolkata```
-
+# Spending Detector 
+It is a Cross-platform Application Developed using Flutter FrameWork
+The UI of the Applicaion will show the spending in the last week from today
+It consist of two UI components 
+- Chart(7 Days)
+- List of Spendings
 
 ## Frontend
 
 - Flutter : 3.0.1
 - Dart SDK version: 2.17.1
 
-
 ## Acknowledgements
 Flutter packages used : 
  - [intl: ^0.17.0](https://pub.dev/packages/intl)
- - [flutter_spinkit: ^5.1.0](https://pub.dev/packages/flutter_spinkit)
  - [http: ^0.13.4](https://pub.dev/packages/http)
 
 

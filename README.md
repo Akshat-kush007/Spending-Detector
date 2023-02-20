@@ -6,6 +6,8 @@ It consist of two UI components
 - Chart(7 Days)
 - List of Spendings
 
+![Alt Text](https://github.com/Akshat-kush007/Web-D-BackUp/blob/main/Assets/gifs/spending.gif)<br><br>
+
 ## Frontend
 
 - Flutter : 3.0.1
